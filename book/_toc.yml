@@ -24,3 +24,7 @@ parts:
     - file: references.md
     - file: changelog.md
     - file: credits.md
+    chapters:
+    - file: linear_algebra/la_overview.md
+      sections:
+      - file: linear_algebra/la_lect001.md
