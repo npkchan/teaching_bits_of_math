@@ -24,7 +24,23 @@ parts:
     - file: references.md
     - file: changelog.md
     - file: credits.md
+  - caption: Linear Algebra
     chapters:
-    - file: linear_algebra/la_overview.md
+    - file: linear_algebra/la_intro.md
       sections:
       - file: linear_algebra/la_lect001.md
+      - file: linear_algebra/la_lect002.md
+      - file: linear_algebra/la_lect003.md
+      - file: linear_algebra/la_lect004.md
+      - file: linear_algebra/la_lect005.md
+      - file: linear_algebra/la_lect006.md
+      # - file: linear_algebra/la_lect007.md
+      # - file: linear_algebra/la_lect008.md
+      # - file: linear_algebra/la_lect009.md
+      # - file: linear_algebra/la_lect010.md
+      # - file: linear_algebra/la_lect011.md
+      # - file: linear_algebra/la_lect012.md
+      # - file: linear_algebra/la_lect013.md
+      # - file: linear_algebra/la_lect014.md
+      # - file: linear_algebra/la_lect015.md
+
